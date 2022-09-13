@@ -9,8 +9,8 @@ I'm __Ambre__, a second year student Coding & Digital innovation at l'IIM in Par
 
 ## 
 ## *<h5 align="center"> Languages & tools</h5>*
-![My Skills](https://skillicons.dev/icons?i=,,,js,html,css,vue,,)
-![My Skills](https://skillicons.dev/icons?i=,gcp,vscode,ps,xd,ai,)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,vue,)
+![My Skills](https://skillicons.dev/icons?i=gcp,vscode,ps,xd,ai,)
 
 
 ## *<h5 align="center"> Stats </h5>*

@@ -1,5 +1,5 @@
-# Hi there ! 
-*<h3> Moi c'est Ambre </h3>*
+# ☀️Hi there !☀️
+*<h3> - Moi c'est Ambre - </h3>*
 ## 
  - 🌱 apprentie dev web 🌱
  - 📍 Paris

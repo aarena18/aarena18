@@ -2,7 +2,7 @@
 
 
 ## *<h5 align="center"> About me </h5>*
-I'm __Ambre__ a second year student Coding & Digital innovation at l'IIM in Paris 🎓
+I'm __Ambre__, a second year student Coding & Digital innovation at l'IIM in Paris 🎓
  - :bulb:I'm currently working on improving my skills
  - :star2:	I'm still learning php
  - :video_game:	I like to play to tlou in my spare time

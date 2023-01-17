@@ -13,14 +13,6 @@ I'm __Ambre__, a second year student Coding & Digital innovation at l'IIM in Par
 ![My Skills](https://skillicons.dev/icons?i=gcp,vscode,ps,xd,ai,)
 
 
-## *<h5 align="center"> Stats </h5>*
-
-##
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aarena18&theme=graywhite&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aarena18&layout=compact&theme=graywhite&show_icons=true)
-
-
-
 ## *<h5 align="center"> Let's have a chat! </h5>*
 
  - <p>linkedin <a href="www.linkedin.com/in/ambrearena/"> 📟 </a></p>

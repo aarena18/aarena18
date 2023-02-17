@@ -40,7 +40,7 @@
 *<h3> Let's have a chat! 💬</h3>*
 
  - <p>If you want to check my linkedin profile, it's right<a href="www.linkedin.com/in/ambrearena/"> here </a>!</p>
- - <p> You can also reach me by clicking on the envelope <a href="mailto:ambrearena@gmail.com"> :envelope: </a></p>
+ - <p> You can also reach me by clicking on this little envelope <a href="mailto:ambrearena@gmail.com"> :envelope: </a></p>
 
 ##
 *<h3> Latest projects </h3>*

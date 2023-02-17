@@ -1,22 +1,45 @@
-<h1 align="center">Hi there !:dizzy:	</h1>
+<h1 align="center">✨Hi there✨</h1>
+<h3 align='center'> It's nice meeting you !</h3>
 
 
-## *<h5 align="center"> About me </h5>*
-I'm __Ambre__, a second year student Coding & Digital innovation at l'IIM in Paris 🎓
- - :bulb:I'm currently working on improving my skills
- - :star2:	I'm still learning php
- - :video_game:	I like to play to tlou in my spare time
-
-## 
-## *<h5 align="center"> Languages & tools</h5>*
-![My Skills](https://skillicons.dev/icons?i=js,html,css,vue,)
-![My Skills](https://skillicons.dev/icons?i=gcp,vscode,ps,xd,ai,)
+*<h3> Some things about me </h3>*
+ - 💡 My latest discovery: **symfony**
+ - 🎓 Currently studing Coding & digital innovations at **IIM Paris**
+ - 👩🏼‍💻 I love working in teams, I even got a digital *project leader* position recently !
+ - :video_game:	A little *madeleine de proust*: playing to **the last of us** (again & again)
+ - 🎧 I'm always listening to music, *100% recommended* during coding sessions
 
 
-## *<h5 align="center"> Let's have a chat! </h5>*
+*<h3> My coding journey</h3>*
+<details>
+ <summary>⚡️ Github Stats</summary>
 
- - <p>linkedin <a href="www.linkedin.com/in/ambrearena/"> 📟 </a></p>
- - <p> mail <a href="mailto:ambrearena@gmail.com"> :envelope: </a></p>
+![Github Stats](https://github-readme-stats.vercel.app/api?username=aarena18&count_private=true&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aarena18&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=aarena18)
+
+
+</details>
+
+<details>
+ <summary>🛠 Languages</summary>
+
+![My Skills](https://skillicons.dev/icons?i=html,css,js,vue,nodejs,tailwind,mysql,vscode&perline=4)
+
+</details>
+<details>
+ <summary>🎨 Other used tools</summary>
+ 
+![My Skills](https://skillicons.dev/icons?i=ps,xd,ai,figma&perline=2) 
+
+</details>
+
+
+## *<h5 align="center"> Let's have a chat! 💬</h5>*
+
+ - <p>If you want to check my linkedin profile, it's right<a href="www.linkedin.com/in/ambrearena/"> here </a>!</p>
+ - <p> You can also reach me by clicking on the envelope <a href="mailto:ambrearena@gmail.com"> :envelope: </a></p>
 
 
 <!---

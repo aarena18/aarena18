@@ -1,6 +1,9 @@
-<h1 align="center">✨Hi there✨</h1>
+<h1 align='center'>✨Hi there✨</h1>
 <h3 align='center'> It's nice meeting you !</h3>
 
+<p align="center">
+   <a href="https://visitor-badge.glitch.me/badge?page_id=aarena18"> <img alt="Ambre Arena github" src="https://visitor-badge.glitch.me/badge?page_id=aarena18"> </a>
+ </p>
 
 *<h3> Some things about me </h3>*
  - 💡 My latest discovery: **symfony**
@@ -16,9 +19,6 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=aarena18&count_private=true&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aarena18&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=aarena18)
-
 
 </details>
 

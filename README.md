@@ -1,7 +1,7 @@
 <h1 align='center'>✨Hi there✨</h1>
 <h3 align='center'> It's nice meeting you !</h3>
 
-<<p align="center">
+<p align="center">
    <a href="https://visitor-badge.glitch.me/badge?page_id=aarena18"> <img alt="Ambre Arena github" src="https://visitor-badge.glitch.me/badge?page_id=aarena18"> </a>
  </p> 
 

@@ -2,7 +2,8 @@
 <h3 align='center'> It's nice meeting you !</h3>
 
 <p align="center">
-   <a href="https://visitor-badge.glitch.me/badge?page_id=aarena18"> <img alt="Ambre Arena github" src="https://visitor-badge.glitch.me/badge?page_id=aarena18"> </a>
+   <p align="center"> <img src="https://komarev.com/ghpvc/?username=aarena18&label=Profile%20views&color=cd18c7&style=flat"
+    alt="aarena18" /> </p>
  </p> 
 
 *<h3> Some things about me </h3>*
